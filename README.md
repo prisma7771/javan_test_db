@@ -10,7 +10,7 @@ The app demonstrates simple user management with three endpoints: fetch users, f
 - **Frontend Repository**: [javan_frontend](https://github.com/prisma7771/javan_frontend)  
 - **Backend Repository**: [javan_test_db](https://github.com/prisma7771/javan_test_db)  
 - **API Base URL**: https://javan-test-db.vercel.app/api  
-- **Frontend App URL**: (coming soon)
+- **Frontend App URL**: https://javan-frontend.vercel.app/
 
 ---
 
